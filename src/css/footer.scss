@@ -1,0 +1,15 @@
+@import './styles.scss';
+
+.Footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color: $red_color;
+    margin-top:30px;
+    //height: 50px;
+}
+
+.textFooter{
+    font-family: $text-font;
+    color: $white-color;
+    padding-right: 80px;
+}

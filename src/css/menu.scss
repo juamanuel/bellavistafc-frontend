@@ -1,0 +1,40 @@
+@import './styles.scss';
+.Menu {
+    background: $red_color;
+    margin: 0 auto;
+    padding: 10px 0 10px 20px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width:100%;
+}
+
+li {
+   // float: left;
+   display: flex;
+    align-items: center;
+}
+
+li a {
+    display:flex;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding: 14px 40px;
+    text-decoration: none;
+}
+
+li a:hover {
+    border-bottom: 1px solid #ffffff;
+}
+.icon{
+    padding-right: 5px;
+    height: 25px;
+    width: 25px;
+}

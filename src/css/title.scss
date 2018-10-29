@@ -1,0 +1,10 @@
+@import './styles.scss';
+.Title{
+    display: flex;
+    width: 80%;
+    justify-content: center;
+  // border: 3px solid blue;
+   color:$white_color;
+   font-family: $text_font;
+   font-size: 20px;
+}

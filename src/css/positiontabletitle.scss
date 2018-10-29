@@ -1,0 +1,12 @@
+@import './styles.scss';
+
+.textTitle{
+    color:black;
+    font-family: $text_title;
+    font-size: 30px;
+    margin:30px 10px 0 10px;
+}
+.PositionTitle{
+    display: flex;
+    justify-content: center;
+}

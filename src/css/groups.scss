@@ -1,0 +1,12 @@
+@import './styles.scss';
+.Groups{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: $text_font;
+    text-align: center;
+}
+
+button{
+    border-color: white;
+}

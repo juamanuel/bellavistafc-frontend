@@ -1,0 +1,51 @@
+@import './styles.scss';
+
+.goalContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-right: 20px;
+}
+
+.GoalMainContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.goalImage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.player{
+    padding: 8px;
+    width: 80px;
+    height:80px;
+    display: block;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+}
+
+.goalNumber{
+    display: flex;
+    align-items: center;
+    font-family: $text_font;
+    font-size: 25px;
+    color:$red_color;
+}
+
+.goalName{
+    margin: 0;
+    font-family: $text_font;
+    text-align: center;
+    color:$gray_color;
+}
+
+.number{
+    font-weight: bold;
+    font-size:28px;
+    padding-right: 5px;
+}

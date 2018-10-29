@@ -1,0 +1,349 @@
+{
+    "teams": [
+      {
+        "id": 1,
+        "name": "Bellavista FC",
+        "short_name": "BFC",
+        "shield":"./images/shields/bellavista.png",
+        "competitions": [
+          {
+            "id_competition": 1,
+            "comp_name": "Torneo del IMSS 2018",
+            "current_round": 1,
+            "group_code": 1,
+            "total_group": 2
+          }
+        ],
+        "stadistics":[
+            {
+                "name":"Bellavista FC",
+                "points": 0,
+                "extra_points":0,
+                "gf":3,
+                "gc":1,
+                "win":1,
+                "draw":0,
+                "lose":0,
+                "id_competition":1,
+                "round":1,
+                "position":1,
+                "diff":2
+            }
+        ]
+      } ,
+
+      {
+        "id": 2,
+        "name": "Amigos del Venado",
+        "short_name": "AV",
+        "shield":"./images/shields/bellavista.png",
+        "competitions": [
+          {
+            "id_competition": 1,
+            "comp_name": "Torneo del IMSS 2018",
+            "current_round": 1,
+            "group_code": 1,
+            "total_group": 2
+          }
+        ],
+        "stadistics":[
+            {
+                "name":"Amigos del Venado",
+                "points": 0,
+                "extra_points":0,
+                "gf":0,
+                "gc":7,
+                "win":0,
+                "draw":0,
+                "lose":1,
+                "id_competition":1,
+                "round":1,
+                "position":2,
+                "diff":-7
+            }
+        ]
+      }  ,
+      {
+        "id": 3,
+        "name": "Tecate",
+        "short_name": "AV",
+        "shield":"./images/shields/bellavista.png",
+        "competitions": [
+          {
+            "id_competition": 1,
+            "comp_name": "Torneo del IMSS 2018",
+            "current_round": 1,
+            "group_code": 1,
+            "total_group": 2
+          }
+        ],
+        "stadistics":[
+            {
+                "name":"Tecate",
+                "points": 0,
+                "extra_points":0,
+                "gf":0,
+                "gc":7,
+                "win":0,
+                "draw":0,
+                "lose":1,
+                "id_competition":1,
+                "round":1,
+                "position":3,
+                "diff":-7
+            }
+        ]
+      }  ,
+      {
+        "id": 4,
+        "name": "Combinado",
+        "short_name": "AV",
+        "shield":"./images/shields/bellavista.png",
+        "competitions": [
+          {
+            "id_competition": 1,
+            "comp_name": "Torneo del IMSS 2018",
+            "current_round": 1,
+            "group_code": 1,
+            "total_group": 2
+          }
+        ],
+        "stadistics":[
+            {
+                "name":"Combinado",
+                "points": 0,
+                "extra_points":0,
+                "gf":0,
+                "gc":7,
+                "win":0,
+                "draw":0,
+                "lose":1,
+                "id_competition":1,
+                "round":1,
+                "position":4,
+                "diff":-7
+            }
+        ]
+      }  ,
+      {
+        "id": 5,
+        "name": "Master Graphics",
+        "short_name": "AV",
+        "shield":"./images/shields/bellavista.png",
+        "competitions": [
+          {
+            "id_competition": 1,
+            "comp_name": "Torneo del IMSS 2018",
+            "current_round": 1,
+            "group_code": 1,
+            "total_group": 2
+          }
+        ],
+        "stadistics":[
+            {
+                "name":"Master Graphics",
+                "points": 0,
+                "extra_points":0,
+                "gf":0,
+                "gc":7,
+                "win":0,
+                "draw":0,
+                "lose":1,
+                "id_competition":1,
+                "round":1,
+                "position":5,
+                "diff":-7
+            }
+        ]
+      }  ,
+      {
+        "id": 6,
+        "name": "Halcones",
+        "short_name": "AV",
+        "shield":"./images/shields/bellavista.png",
+        "competitions": [
+          {
+            "id_competition": 1,
+            "comp_name": "Torneo del IMSS 2018",
+            "current_round": 1,
+            "group_code": 1,
+            "total_group": 2
+          }
+        ],
+        "stadistics":[
+            {
+                "name": "Halcones",
+                "points": 0,
+                "extra_points":0,
+                "gf":0,
+                "gc":7,
+                "win":0,
+                "draw":0,
+                "lose":1,
+                "id_competition":1,
+                "round":1,
+                "position":6,
+                "diff":-7
+            }
+        ]
+      }  ,
+      {
+        "id": 7,
+        "name": "SUTERM",
+        "short_name": "AV",
+        "shield":"./images/shields/bellavista.png",
+        "competitions": [
+          {
+            "id_competition": 1,
+            "comp_name": "Torneo del IMSS 2018",
+            "current_round": 1,
+            "group_code": 1,
+            "total_group": 2
+          }
+        ],
+        "stadistics":[
+            {
+                "name": "SUTERM",
+                "points": 0,
+                "extra_points":0,
+                "gf":0,
+                "gc":7,
+                "win":0,
+                "draw":0,
+                "lose":1,
+                "id_competition":1,
+                "round":1,
+                "position":7,
+                "diff":-7
+            }
+        ]
+      }  ,
+      {
+        "id": 8,
+        "name": "Enigma Norteño",
+        "short_name": "AV",
+        "shield":"./images/shields/bellavista.png",
+        "competitions": [
+          {
+            "id_competition": 1,
+            "comp_name": "Torneo del IMSS 2018",
+            "current_round": 1,
+            "group_code": 1,
+            "total_group": 2
+          }
+        ],
+        "stadistics":[
+            {
+                "name":"Enigma Norteño",
+                "points": 0,
+                "extra_points":0,
+                "gf":0,
+                "gc":7,
+                "win":0,
+                "draw":0,
+                "lose":1,
+                "id_competition":1,
+                "round":1,
+                "position":8,
+                "diff":-7
+            }
+        ]
+      }  ,
+      {
+        "id": 9,
+        "name": "Deportivo Rochin",
+        "short_name": "AV",
+        "shield":"./images/shields/bellavista.png",
+        "competitions": [
+          {
+            "id_competition": 1,
+            "comp_name": "Torneo del IMSS 2018",
+            "current_round": 1,
+            "group_code": 1,
+            "total_group": 2
+          }
+        ],
+        "stadistics":[
+            {
+                "name":"Deportivo Rochin",
+                "points": 0,
+                "extra_points":0,
+                "gf":0,
+                "gc":7,
+                "win":0,
+                "draw":0,
+                "lose":1,
+                "id_competition":1,
+                "round":1,
+                "position":9,
+                "diff":-7
+            }
+        ]
+      }  ,
+      {
+        "id": 10,
+        "name": "Estilo Regio",
+        "short_name": "AV",
+        "shield":"./images/shields/bellavista.png",
+        "competitions": [
+          {
+            "id_competition": 1,
+            "comp_name": "Torneo del IMSS 2018",
+            "current_round": 1,
+            "group_code": 1,
+            "total_group": 2
+          }
+        ],
+        "stadistics":[
+            {
+                "name":"Estilo Regio",
+                "points": 0,
+                "extra_points":0,
+                "gf":0,
+                "gc":7,
+                "win":0,
+                "draw":0,
+                "lose":1,
+                "id_competition":1,
+                "round":1,
+                "position":10,
+                "diff":-7
+            }
+        ]
+      }  ,
+      {
+        "id": 11,
+        "name": "Deportivo Chive",
+        "short_name": "AV",
+        "shield":"./images/shields/bellavista.png",
+        "competitions": [
+          {
+            "id_competition": 1,
+            "comp_name": "Torneo del IMSS 2018",
+            "current_round": 1,
+            "group_code": 1,
+            "total_group": 2
+          }
+        ],
+        "stadistics":[
+            {
+                "name":"Deportivo Chive",
+                "points": 0,
+                "extra_points":0,
+                "gf":0,
+                "gc":7,
+                "win":0,
+                "draw":0,
+                "lose":1,
+                "id_competition":1,
+                "round":1,
+                "position":11,
+                "diff":-7
+            }
+        ]
+      }  
+ ]
+}
+
+  
+  
