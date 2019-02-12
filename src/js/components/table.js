@@ -1,5 +1,6 @@
 import React from 'react'
 import '../../css/table.scss'
+
 const Table = (props) => (
             <tr>
                 <td>{props.stadistics[0].position}</td>

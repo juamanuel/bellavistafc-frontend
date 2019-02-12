@@ -1,23 +1,21 @@
 {
     "teams": [
       {
-        "id": 1,
+        "id": 0,
         "name": "Bellavista FC",
         "short_name": "BFC",
         "shield":"./images/shields/bellavista.png",
         "competitions": [
           {
             "id_competition": 1,
-            "comp_name": "Torneo del IMSS 2018",
-            "current_round": 1,
-            "group_code": 1,
-            "total_group": 2
+            "comp_name": "Liga Municipal de Tercera Fuerza A",
+            "current_round": 1
           }
         ],
         "stadistics":[
             {
                 "name":"Bellavista FC",
-                "points": 0,
+                "points": 3,
                 "extra_points":0,
                 "gf":3,
                 "gc":1,
@@ -33,29 +31,27 @@
       } ,
 
       {
-        "id": 2,
+        "id": 1,
         "name": "Amigos del Venado",
         "short_name": "AV",
         "shield":"./images/shields/bellavista.png",
         "competitions": [
           {
             "id_competition": 1,
-            "comp_name": "Torneo del IMSS 2018",
-            "current_round": 1,
-            "group_code": 1,
-            "total_group": 2
+            "comp_name": "Liga Municipal de Tercera Fuerza A",
+            "current_round": 1
           }
         ],
         "stadistics":[
             {
                 "name":"Amigos del Venado",
-                "points": 0,
+                "points": 6,
                 "extra_points":0,
                 "gf":0,
                 "gc":7,
-                "win":0,
+                "win":2,
                 "draw":0,
-                "lose":1,
+                "lose":0,
                 "id_competition":1,
                 "round":1,
                 "position":2,
@@ -64,23 +60,21 @@
         ]
       }  ,
       {
-        "id": 3,
+        "id": 2,
         "name": "Tecate",
         "short_name": "AV",
         "shield":"./images/shields/bellavista.png",
         "competitions": [
           {
             "id_competition": 1,
-            "comp_name": "Torneo del IMSS 2018",
-            "current_round": 1,
-            "group_code": 1,
-            "total_group": 2
+            "comp_name": "Liga Municipal de Tercera Fuerza A",
+            "current_round": 1
           }
         ],
         "stadistics":[
             {
                 "name":"Tecate",
-                "points": 0,
+                "points": 1,
                 "extra_points":0,
                 "gf":0,
                 "gc":7,
@@ -95,23 +89,21 @@
         ]
       }  ,
       {
-        "id": 4,
+        "id": 3,
         "name": "Combinado",
         "short_name": "AV",
         "shield":"./images/shields/bellavista.png",
         "competitions": [
           {
             "id_competition": 1,
-            "comp_name": "Torneo del IMSS 2018",
-            "current_round": 1,
-            "group_code": 1,
-            "total_group": 2
+            "comp_name": "Liga Municipal de Tercera Fuerza A",
+            "current_round": 1
           }
         ],
         "stadistics":[
             {
                 "name":"Combinado",
-                "points": 0,
+                "points": 5,
                 "extra_points":0,
                 "gf":0,
                 "gc":7,
@@ -126,23 +118,21 @@
         ]
       }  ,
       {
-        "id": 5,
+        "id": 4,
         "name": "Master Graphics",
         "short_name": "AV",
         "shield":"./images/shields/bellavista.png",
         "competitions": [
           {
             "id_competition": 1,
-            "comp_name": "Torneo del IMSS 2018",
-            "current_round": 1,
-            "group_code": 1,
-            "total_group": 2
+            "comp_name": "Liga Municipal de Tercera Fuerza A",
+            "current_round": 1
           }
         ],
         "stadistics":[
             {
                 "name":"Master Graphics",
-                "points": 0,
+                "points": 9,
                 "extra_points":0,
                 "gf":0,
                 "gc":7,
@@ -157,23 +147,21 @@
         ]
       }  ,
       {
-        "id": 6,
+        "id": 5,
         "name": "Halcones",
         "short_name": "AV",
         "shield":"./images/shields/bellavista.png",
         "competitions": [
           {
             "id_competition": 1,
-            "comp_name": "Torneo del IMSS 2018",
-            "current_round": 1,
-            "group_code": 1,
-            "total_group": 2
+            "comp_name": "Liga Municipal de Tercera Fuerza A",
+            "current_round": 1
           }
         ],
         "stadistics":[
             {
                 "name": "Halcones",
-                "points": 0,
+                "points": 10,
                 "extra_points":0,
                 "gf":0,
                 "gc":7,
@@ -188,23 +176,21 @@
         ]
       }  ,
       {
-        "id": 7,
+        "id": 6,
         "name": "SUTERM",
         "short_name": "AV",
         "shield":"./images/shields/bellavista.png",
         "competitions": [
           {
             "id_competition": 1,
-            "comp_name": "Torneo del IMSS 2018",
-            "current_round": 1,
-            "group_code": 1,
-            "total_group": 2
+            "comp_name": "Liga Municipal de Tercera Fuerza A",
+            "current_round": 1
           }
         ],
         "stadistics":[
             {
                 "name": "SUTERM",
-                "points": 0,
+                "points": 2,
                 "extra_points":0,
                 "gf":0,
                 "gc":7,
@@ -219,17 +205,15 @@
         ]
       }  ,
       {
-        "id": 8,
+        "id": 7,
         "name": "Enigma Norteño",
         "short_name": "AV",
         "shield":"./images/shields/bellavista.png",
         "competitions": [
           {
             "id_competition": 1,
-            "comp_name": "Torneo del IMSS 2018",
-            "current_round": 1,
-            "group_code": 1,
-            "total_group": 2
+            "comp_name": "Liga Municipal de Tercera Fuerza A",
+            "current_round": 1
           }
         ],
         "stadistics":[
@@ -250,17 +234,15 @@
         ]
       }  ,
       {
-        "id": 9,
+        "id": 8,
         "name": "Deportivo Rochin",
         "short_name": "AV",
         "shield":"./images/shields/bellavista.png",
         "competitions": [
           {
             "id_competition": 1,
-            "comp_name": "Torneo del IMSS 2018",
-            "current_round": 1,
-            "group_code": 1,
-            "total_group": 2
+            "comp_name": "Liga Municipal de Tercera Fuerza A",
+            "current_round": 1
           }
         ],
         "stadistics":[
@@ -281,17 +263,15 @@
         ]
       }  ,
       {
-        "id": 10,
+        "id": 9,
         "name": "Estilo Regio",
         "short_name": "AV",
         "shield":"./images/shields/bellavista.png",
         "competitions": [
           {
             "id_competition": 1,
-            "comp_name": "Torneo del IMSS 2018",
-            "current_round": 1,
-            "group_code": 1,
-            "total_group": 2
+            "comp_name": "Liga Municipal de Tercera Fuerza A",
+            "current_round": 1
           }
         ],
         "stadistics":[
@@ -312,17 +292,15 @@
         ]
       }  ,
       {
-        "id": 11,
+        "id": 10,
         "name": "Deportivo Chive",
         "short_name": "AV",
         "shield":"./images/shields/bellavista.png",
         "competitions": [
           {
             "id_competition": 1,
-            "comp_name": "Torneo del IMSS 2018",
-            "current_round": 1,
-            "group_code": 1,
-            "total_group": 2
+            "comp_name": "Liga Municipal de Tercera Fuerza A",
+            "current_round": 1
           }
         ],
         "stadistics":[
