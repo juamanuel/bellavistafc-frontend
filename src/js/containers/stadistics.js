@@ -21,6 +21,18 @@ function Stadistics (props) {
         if (a.value.points > b.value.points) {
           return -1
         }
+        if(a.value.diff < b.value.diff){
+          return 1
+        }
+        if(a.value.diff > b.value.diff){
+          return -1
+        }
+        if(a.value.gf < b.value.gf){
+          return 1
+        }
+        if(a.value.gf > b.value.gf){
+          return -1
+        }
         return 0
       })
 
@@ -57,7 +69,7 @@ function Stadistics (props) {
                             //console.log(item)
                             //const order = item.stadistics[0].points.sort()
                             //console.log(order)
-
+              
                             return(
                                     <Table
                                         key = {item.id}

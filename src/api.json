@@ -17,15 +17,15 @@
                 "name":"Bellavista FC",
                 "points": 3,
                 "extra_points":0,
-                "gf":3,
-                "gc":1,
+                "gf":15,
+                "gc":10,
                 "win":1,
                 "draw":0,
                 "lose":0,
                 "id_competition":1,
                 "round":1,
                 "position":1,
-                "diff":2
+                "diff":5
             }
         ]
       } ,
@@ -190,17 +190,17 @@
         "stadistics":[
             {
                 "name": "SUTERM",
-                "points": 2,
+                "points": 3,
                 "extra_points":0,
-                "gf":0,
-                "gc":7,
+                "gf":25,
+                "gc":20,
                 "win":0,
                 "draw":0,
                 "lose":1,
                 "id_competition":1,
                 "round":1,
                 "position":7,
-                "diff":-7
+                "diff":5
             }
         ]
       }  ,
@@ -258,7 +258,7 @@
                 "id_competition":1,
                 "round":1,
                 "position":9,
-                "diff":-7
+                "diff":14
             }
         ]
       }  ,
@@ -287,7 +287,7 @@
                 "id_competition":1,
                 "round":1,
                 "position":10,
-                "diff":-7
+                "diff":3
             }
         ]
       }  ,
@@ -316,7 +316,7 @@
                 "id_competition":1,
                 "round":1,
                 "position":11,
-                "diff":-7
+                "diff":5
             }
         ]
       }  
